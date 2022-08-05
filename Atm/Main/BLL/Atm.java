@@ -3,7 +3,7 @@ package Atm.Main.BLL;
 import Atm.Main.DAL.MockDB;
 import Atm.Main.Menu.Menu;
 import Atm.Main.Models.Card;
-package Atm.Main.Util;
+import Atm.Main.Util.Logger;
 import java.util.Scanner;
 
 public class Atm {
